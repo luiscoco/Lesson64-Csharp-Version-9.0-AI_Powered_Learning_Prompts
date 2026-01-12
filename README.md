@@ -17,7 +17,7 @@ Focus on:
 •	Long-running language themes that come together
 •	Why consolidation matters more than novelty at this stage
 •	How C# 9 reflects confidence in the language’s identity
-🎯 Outcome:
+Outcome:
 You should be able to explain why C# 9 feels inevitable rather than surprising.
 ________________________________________
 Practice Prompt 2 — Ceremony vs Meaning
@@ -27,7 +27,7 @@ Guide the explanation toward:
 •	Ritual vs meaning
 •	Why Main, Program, and namespaces were historical artifacts
 •	How moving structure into the compiler improves clarity
-🎯 Outcome:
+Outcome:
 You should articulate why removing ceremony does not remove structure.
 ________________________________________
 Practice Prompt 3 — Intentional Data Modeling
@@ -37,7 +37,7 @@ Explore:
 •	Identity vs value
 •	The cost of simulating data types before records
 •	Why intent matters more than mechanics in domain models
-🎯 Outcome:
+Outcome:
 You should understand records as a semantic construct, not shorthand syntax.
 ________________________________________
 Practice Prompt 4 — Immutability Without Rigidity
@@ -47,7 +47,7 @@ Focus on:
 •	Construction-time mutation vs runtime mutation
 •	Why nondestructive mutation (with) is important
 •	How this supports correctness at scale
-🎯 Outcome:
+Outcome:
 You should clearly explain why controlled mutability is superior to blanket immutability.
 ________________________________________
 Practice Prompt 5 — Pattern Matching as a Control System
@@ -57,7 +57,7 @@ Discuss:
 •	Declarative vs imperative branching
 •	Relational, logical, and type patterns
 •	Readability, exhaustiveness, and analyzability
-🎯 Outcome:
+Outcome:
 You should see patterns as a language subsystem, not a convenience feature.
 ________________________________________
 Practice Prompt 6 — Patterns Everywhere
@@ -67,7 +67,7 @@ Reflect on:
 •	Uniform reasoning models
 •	Reduced cognitive load
 •	Intent-first decision logic
-🎯 Outcome:
+Outcome:
 You should understand how consistency strengthens large codebases.
 ________________________________________
 Practice Prompt 7 — High-Level Clarity Meets Low-Level Power
@@ -77,7 +77,7 @@ Analyze:
 •	nint / nuint
 •	Function pointers
 •	SuppressLocalsInit
-🎯 Outcome:
+Outcome:
 You should explain how C# balances safety with explicit responsibility.
 ________________________________________
 Practice Prompt 8 — Dangerous Things Should Be Explicit
@@ -87,7 +87,7 @@ Think about:
 •	Opt-in danger
 •	Visibility of responsibility
 •	Why performance features are never silent
-🎯 Outcome:
+Outcome:
 You should recognize C#’s philosophy around power and risk.
 ________________________________________
 Practice Prompt 9 — Language Support for Tooling and Generation
@@ -97,7 +97,7 @@ Focus on:
 •	Source generators
 •	Framework evolution
 •	Eliminating reflection hacks
-🎯 Outcome:
+Outcome:
 You should see how language evolution supports ecosystem growth.
 ________________________________________
 Practice Prompt 10 — Small Features, Big Effect
@@ -107,7 +107,7 @@ Discuss:
 •	Friction removal
 •	Reading cost vs writing cost
 •	Compound productivity effects
-🎯 Outcome:
+Outcome:
 You should appreciate polish as a strategic investment.
 ________________________________________
 Part 2 — Guided Applied Prompts
@@ -115,31 +115,31 @@ Part 2 — Guided Applied Prompts
 Practice Prompt 11 — Records as Design Decisions
 Ask:
 “Explain when a record should replace a class — without using syntax.”
-🎯 Outcome:
+Outcome:
 You should be able to justify design choices in domain modeling conversations.
 ________________________________________
 Practice Prompt 12 — Refactoring Control Flow
 Ask:
 “Take deeply nested conditional logic and rewrite it using C# 9 pattern matching. Explain how reasoning improves.”
-🎯 Outcome:
+Outcome:
 You should experience pattern matching as a thinking tool, not just syntax.
 ________________________________________
 Practice Prompt 13 — Startup Simplicity
 Ask:
 “Why do top-level statements improve onboarding for new developers without limiting advanced scenarios?”
-🎯 Outcome:
+Outcome:
 You should understand how C# scales down as well as up.
 ________________________________________
 Practice Prompt 14 — Expert-Only Features
 Ask:
 “Which C# 9 features should only be used by expert developers, and what risks do they introduce?”
-🎯 Outcome:
+Outcome:
 You should be able to distinguish expressive features from dangerous ones.
 ________________________________________
 Final Reflection Prompt — Evolution Framework
 Ask your AI assistant:
 “Evaluate C# 9 using the evolution framework: problem solved, semantic impact, affected dimensions, and long-term significance.”
-🎯 Outcome:
+Outcome:
 You should clearly explain why C# 9 is a milestone without being disruptive.
 ________________________________________
 Key Takeaways (Reinforced Through Practice)
