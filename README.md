@@ -1,6 +1,6 @@
 # Lesson 64 - C# Version 9.0 AI-Powered Learning Prompts
 
-How to Use This Lesson
+## How to Use This Lesson
 
 In this lesson, your AI assistant plays different roles:
 
@@ -15,11 +15,11 @@ In this lesson, your AI assistant plays different roles:
 Your goal is not to memorize syntax, but to recognize intent-first design in modern C#.
 ________________________________________
 
-Part 1 - Conceptual Practice Prompts
+## Part 1 - Conceptual Practice Prompts
 
 (Your AI assistant acts as a Language Synthesizer)
 
-Practice Prompt 1 — Why C# 9 Is a Convergence Release
+### Practice Prompt 1 — Why C# 9 Is a Convergence Release
 
 Ask your AI assistant:
 
@@ -38,7 +38,7 @@ Outcome:
 You should be able to explain why C# 9 feels inevitable rather than surprising.
 ________________________________________
 
-Practice Prompt 2 — Ceremony vs Meaning
+### Practice Prompt 2 — Ceremony vs Meaning
 
 Ask:
 
@@ -57,7 +57,7 @@ Outcome:
 You should articulate why removing ceremony does not remove structure.
 ________________________________________
 
-Practice Prompt 3 — Intentional Data Modeling
+### Practice Prompt 3 — Intentional Data Modeling
 
 Ask:
 
@@ -76,7 +76,7 @@ Outcome:
 You should understand records as a semantic construct, not shorthand syntax.
 ________________________________________
 
-Practice Prompt 4 — Immutability Without Rigidity
+### Practice Prompt 4 — Immutability Without Rigidity
 
 Ask:
 
@@ -95,7 +95,7 @@ Outcome:
 You should clearly explain why controlled mutability is superior to blanket immutability.
 ________________________________________
 
-Practice Prompt 5 — Pattern Matching as a Control System
+### Practice Prompt 5 — Pattern Matching as a Control System
 
 Ask:
 
@@ -114,7 +114,7 @@ Outcome:
 You should see patterns as a language subsystem, not a convenience feature.
 ________________________________________
 
-Practice Prompt 6 — Patterns Everywhere
+### Practice Prompt 6 — Patterns Everywhere
 
 Ask:
 
@@ -133,7 +133,7 @@ Outcome:
 You should understand how consistency strengthens large codebases.
 ________________________________________
 
-Practice Prompt 7 — High-Level Clarity Meets Low-Level Power
+### Practice Prompt 7 — High-Level Clarity Meets Low-Level Power
 
 Ask:
 
@@ -152,7 +152,7 @@ Outcome:
 You should explain how C# balances safety with explicit responsibility.
 ________________________________________
 
-Practice Prompt 8 — Dangerous Things Should Be Explicit
+### Practice Prompt 8 — Dangerous Things Should Be Explicit
 
 Ask:
 
@@ -171,7 +171,7 @@ Outcome:
 You should recognize C#’s philosophy around power and risk.
 ________________________________________
 
-Practice Prompt 9 — Language Support for Tooling and Generation
+### ractice Prompt 9 — Language Support for Tooling and Generation
 
 Ask:
 
@@ -190,7 +190,7 @@ Outcome:
 You should see how language evolution supports ecosystem growth.
 ________________________________________
 
-Practice Prompt 10 — Small Features, Big Effect
+### Practice Prompt 10 — Small Features, Big Effect
 
 Ask:
 
@@ -209,11 +209,11 @@ Outcome:
 You should appreciate polish as a strategic investment.
 ________________________________________
 
-Part 2 — Guided Applied Prompts
+## Part 2 — Guided Applied Prompts
 
 (You are now an Intentional Designer)
 
-Practice Prompt 11 — Records as Design Decisions
+### Practice Prompt 11 — Records as Design Decisions
 
 Ask:
 
@@ -224,7 +224,7 @@ Outcome:
 You should be able to justify design choices in domain modeling conversations.
 ________________________________________
 
-Practice Prompt 12 — Refactoring Control Flow
+### Practice Prompt 12 — Refactoring Control Flow
 
 Ask:
 
@@ -235,7 +235,7 @@ Outcome:
 You should experience pattern matching as a thinking tool, not just syntax.
 ________________________________________
 
-Practice Prompt 13 — Startup Simplicity
+### Practice Prompt 13 — Startup Simplicity
 
 Ask:
 
@@ -246,7 +246,7 @@ Outcome:
 You should understand how C# scales down as well as up.
 ________________________________________
 
-Practice Prompt 14 — Expert-Only Features
+### Practice Prompt 14 — Expert-Only Features
 
 Ask:
 
@@ -257,7 +257,7 @@ Outcome:
 You should be able to distinguish expressive features from dangerous ones.
 ________________________________________
 
-Final Reflection Prompt — Evolution Framework
+### Final Reflection Prompt — Evolution Framework
 
 Ask your AI assistant:
 
@@ -268,7 +268,7 @@ Outcome:
 You should clearly explain why C# 9 is a milestone without being disruptive.
 ________________________________________
 
-Key Takeaways (Reinforced Through Practice)
+## Key Takeaways (Reinforced Through Practice)
 
 •	C# 9 is a convergence release, not a reinvention
 
